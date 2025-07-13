@@ -1,0 +1,629 @@
+{
+  "en": {
+    "nav": {
+      "services": "Services",
+      "about": "About",
+      "testimonials": "Testimonials",
+      "contact": "Contact"
+    },
+    "hero": {
+      "headline": "Grow Smarter. Sell More. The Kreative Way.",
+      "subheadline": "We help brands stand out through social media, ads, content, and strategy.",
+      "cta": "Book a Call",
+      "demoButton": "Watch Demo",
+      "analyticsDashboard": "Analytics Dashboard",
+      "engagementRate": "Engagement Rate",
+      "roi": "ROI"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive digital marketing solutions tailored for your success",
+      "cta": "Book a Call",
+      "items": [
+        {
+          "title": "Social Media Management",
+          "description": "Complete social media strategy, content creation, and community management to build your brand presence."
+        },
+        {
+          "title": "Paid Advertising",
+          "description": "High-converting Facebook, Instagram, and Google Ads campaigns that drive measurable results."
+        },
+        {
+          "title": "Content Creation",
+          "description": "Professional photography, videography, and graphic design that tells your brand story."
+        },
+        {
+          "title": "Strategy & Audit",
+          "description": "Data-driven marketing audits and strategic planning to optimize your digital presence."
+        },
+        {
+          "title": "Website Creation",
+          "description": "Modern, responsive websites designed to convert visitors into customers."
+        }
+      ]
+    },
+    "servicePacks": {
+      "title": "Choose Your Plan",
+      "subtitle": "Select the perfect package for your business growth",
+      "packs": [
+        {
+          "name": "Starter Pack",
+          "monthlyPrice": "200 TND",
+          "yearlyPrice": "1,920 TND",
+          "features": [
+            "Social Media Management (1 platform)",
+            "2 Reels/month",
+            "Monthly report",
+            "Basic analytics",
+            "Email support"
+          ],
+          "cta": "Get Started"
+        },
+        {
+          "name": "Growth Pack",
+          "monthlyPrice": "450 TND",
+          "yearlyPrice": "4,320 TND",
+          "features": [
+            "Social Media Management (3 platforms)",
+            "4 Reels + Ad Optimization",
+            "Monthly Audit",
+            "Advanced analytics",
+            "Priority support",
+            "Content calendar"
+          ],
+          "cta": "Start Growing"
+        },
+        {
+          "name": "Premium Pack",
+          "monthlyPrice": "Custom Quote",
+          "yearlyPrice": "Custom Quote",
+          "features": [
+            "All Services (including Web Creation)",
+            "Custom Content Strategy",
+            "Dedicated Account Manager",
+            "24/7 support",
+            "Weekly reports",
+            "Brand consultation"
+          ],
+          "cta": "Contact Us"
+        }
+      ],
+      "customPack": {
+        "title": "Build Your Own Pack",
+        "description": "Tell us what you need, and we'll create a custom solution just for you.",
+        "cta": "Contact Us"
+      }
+    },
+    "whyUs": {
+      "title": "Why Choose The Kreative Hub",
+      "items": [
+        {
+          "title": "Creative Experts",
+          "description": "Our team of designers and strategists brings fresh, innovative ideas to every project."
+        },
+        {
+          "title": "Data-Driven Strategies",
+          "description": "Every decision is backed by analytics and proven methodologies for maximum ROI."
+        },
+        {
+          "title": "Consistent Results",
+          "description": "We deliver measurable growth and maintain long-term partnerships with our clients."
+        }
+      ],
+      "stats": [
+        {
+          "number": "500+",
+          "label": "Projects Completed"
+        },
+        {
+          "number": "95%",
+          "label": "Client Satisfaction"
+        },
+        {
+          "number": "250%",
+          "label": "Average ROI"
+        },
+        {
+          "number": "24/7",
+          "label": "Support Available"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "items": [
+        {
+          "name": "Sarah Johnson",
+          "company": "TechFlow Solutions",
+          "content": "The Kreative Hub transformed our social media presence. Our engagement increased by 300% in just 3 months!",
+          "rating": 5
+        },
+        {
+          "name": "Ahmed Hassan",
+          "company": "Middle East Ventures",
+          "content": "Professional team with outstanding results. Our ROI improved significantly after working with them.",
+          "rating": 5
+        },
+        {
+          "name": "Marie Dubois",
+          "company": "Luxury Boutique",
+          "content": "Creative content and strategic approach helped us reach new markets. Highly recommend!",
+          "rating": 5
+        }
+      ]
+    },
+    "booking": {
+      "title": "Ready to Grow Your Business?",
+      "subtitle": "Fill out our form and we'll create a custom strategy for your brand",
+      "cta": "Book a Call",
+      "transformTitle": "Ready to Transform Your Brand?",
+      "transformDescription": "Fill out our quick form and we'll get back to you within 24 hours with a customized strategy proposal.",
+      "freeConsultation": "Free consultation • No commitment required",
+      "processTitle": "Simple 3-Step Process",
+      "processSteps": [
+        {
+          "title": "Fill the Form",
+          "description": "Tell us about your business and goals"
+        },
+        {
+          "title": "Strategy Call",
+          "description": "We analyze and create a custom plan"
+        },
+        {
+          "title": "Get Results",
+          "description": "Watch your brand grow and sales increase"
+        }
+      ],
+      "expectationsTitle": "What You'll Get",
+      "expectations": [
+        "Comprehensive brand audit & analysis",
+        "Custom social media strategy roadmap",
+        "Content calendar and posting schedule",
+        "Performance tracking and optimization plan"
+      ]
+    },
+    "footer": {
+      "contact": "hello@thekreativehub.com",
+      "companyName": "The Kreative Hub",
+      "companyDescription": "Transforming brands through creative digital marketing solutions that drive real results.",
+      "quickLinks": "Quick Links",
+      "servicesTitle": "Our Services",
+      "servicesList": [
+        "Social Media Management",
+        "Paid Advertising",
+        "Content Creation",
+        "Strategy & Consulting",
+        "Website Development"
+      ],
+      "stayConnected": "Stay Connected",
+      "newsletterText": "Subscribe to our newsletter for marketing tips and updates.",
+      "newsletterPlaceholder": "Enter your email",
+      "newsletterButton": "Subscribe",
+      "location": "Tunis, Tunisia",
+      "phone": "+216 12 345 678",
+      "copyright": "© 2025 The Kreative Hub. All rights reserved.",
+      "links": {
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+      }
+    }
+  },
+  "fr": {
+    "nav": {
+      "services": "Services",
+      "about": "À Propos",
+      "testimonials": "Témoignages",
+      "contact": "Contact"
+    },
+    "hero": {
+      "headline": "Grandissez Plus Intelligemment. Vendez Plus. À La Manière Kreative.",
+      "subheadline": "Nous aidons les marques à se démarquer grâce aux réseaux sociaux, aux publicités, au contenu et à la stratégie.",
+      "cta": "Réserver un Appel",
+      "demoButton": "Regarder la Démo",
+      "analyticsDashboard": "Tableau de Bord Analytique",
+      "engagementRate": "Taux d'Engagement",
+      "roi": "ROI"
+    },
+    "services": {
+      "title": "Nos Services",
+      "subtitle": "Solutions de marketing digital complètes adaptées à votre succès",
+      "cta": "Réserver un Appel",
+      "items": [
+        {
+          "title": "Gestion des Réseaux Sociaux",
+          "description": "Stratégie complète des réseaux sociaux, création de contenu et gestion communautaire pour renforcer votre présence de marque."
+        },
+        {
+          "title": "Publicité Payante",
+          "description": "Campagnes Facebook, Instagram et Google Ads à forte conversion qui génèrent des résultats mesurables."
+        },
+        {
+          "title": "Création de Contenu",
+          "description": "Photographie, vidéographie et design graphique professionnels qui racontent l'histoire de votre marque."
+        },
+        {
+          "title": "Stratégie et Audit",
+          "description": "Audits marketing basés sur les données et planification stratégique pour optimiser votre présence digitale."
+        },
+        {
+          "title": "Création de Sites Web",
+          "description": "Sites web modernes et réactifs conçus pour convertir les visiteurs en clients."
+        }
+      ]
+    },
+    "servicePacks": {
+      "title": "Choisissez Votre Plan",
+      "subtitle": "Sélectionnez le package parfait pour la croissance de votre entreprise",
+      "packs": [
+        {
+          "name": "Pack Débutant",
+          "monthlyPrice": "200 TND",
+          "yearlyPrice": "1 920 TND",
+          "features": [
+            "Gestion Réseaux Sociaux (1 plateforme)",
+            "2 Reels/mois",
+            "Rapport mensuel",
+            "Analyses de base",
+            "Support par email"
+          ],
+          "cta": "Commencer"
+        },
+        {
+          "name": "Pack Croissance",
+          "monthlyPrice": "450 TND",
+          "yearlyPrice": "4 320 TND",
+          "features": [
+            "Gestion Réseaux Sociaux (3 plateformes)",
+            "4 Reels + Optimisation Publicités",
+            "Audit Mensuel",
+            "Analyses avancées",
+            "Support prioritaire",
+            "Calendrier de contenu"
+          ],
+          "cta": "Commencer à Grandir"
+        },
+        {
+          "name": "Pack Premium",
+          "monthlyPrice": "Devis Personnalisé",
+          "yearlyPrice": "Devis Personnalisé",
+          "features": [
+            "Tous les Services (incluant Création Web)",
+            "Stratégie de Contenu Personnalisée",
+            "Gestionnaire de Compte Dédié",
+            "Support 24/7",
+            "Rapports hebdomadaires",
+            "Consultation de marque"
+          ],
+          "cta": "Nous Contacter"
+        }
+      ],
+      "customPack": {
+        "title": "Créez Votre Propre Pack",
+        "description": "Dites-nous ce dont vous avez besoin, et nous créerons une solution personnalisée juste pour vous.",
+        "cta": "Nous Contacter"
+      }
+    },
+    "whyUs": {
+      "title": "Pourquoi Choisir The Kreative Hub",
+      "items": [
+        {
+          "title": "Experts Créatifs",
+          "description": "Notre équipe de designers et stratèges apporte des idées fraîches et innovantes à chaque projet."
+        },
+        {
+          "title": "Stratégies Basées sur les Données",
+          "description": "Chaque décision est soutenue par des analyses et des méthodologies éprouvées pour un ROI maximum."
+        },
+        {
+          "title": "Résultats Cohérents",
+          "description": "Nous livrons une croissance mesurable et maintenons des partenariats à long terme avec nos clients."
+        }
+      ],
+      "stats": [
+        {
+          "number": "500+",
+          "label": "Projets Terminés"
+        },
+        {
+          "number": "95%",
+          "label": "Satisfaction Client"
+        },
+        {
+          "number": "250%",
+          "label": "ROI Moyen"
+        },
+        {
+          "number": "24/7",
+          "label": "Support Disponible"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Ce Que Disent Nos Clients",
+      "items": [
+        {
+          "name": "Sarah Johnson",
+          "company": "TechFlow Solutions",
+          "content": "The Kreative Hub a transformé notre présence sur les réseaux sociaux. Notre engagement a augmenté de 300% en seulement 3 mois !",
+          "rating": 5
+        },
+        {
+          "name": "Ahmed Hassan",
+          "company": "Middle East Ventures",
+          "content": "Équipe professionnelle avec des résultats exceptionnels. Notre ROI s'est considérablement amélioré après avoir travaillé avec eux.",
+          "rating": 5
+        },
+        {
+          "name": "Marie Dubois",
+          "company": "Luxury Boutique",
+          "content": "Contenu créatif et approche stratégique nous ont aidés à atteindre de nouveaux marchés. Recommande fortement !",
+          "rating": 5
+        }
+      ]
+    },
+    "booking": {
+      "title": "Prêt à Développer Votre Entreprise ?",
+      "subtitle": "Remplissez notre formulaire et nous créerons une stratégie personnalisée pour votre marque",
+      "cta": "Réserver un Appel",
+      "transformTitle": "Prêt à Transformer Votre Marque ?",
+      "transformDescription": "Remplissez notre formulaire rapide et nous vous répondrons dans les 24 heures avec une proposition de stratégie personnalisée.",
+      "freeConsultation": "Consultation gratuite • Aucun engagement requis",
+      "processTitle": "Processus Simple en 3 Étapes",
+      "processSteps": [
+        {
+          "title": "Remplir le Formulaire",
+          "description": "Parlez-nous de votre entreprise et de vos objectifs"
+        },
+        {
+          "title": "Appel de Stratégie",
+          "description": "Nous analysons et créons un plan personnalisé"
+        },
+        {
+          "title": "Obtenir des Résultats",
+          "description": "Regardez votre marque grandir et les ventes augmenter"
+        }
+      ],
+      "expectationsTitle": "Ce Que Vous Obtenez",
+      "expectations": [
+        "Audit complet de marque et analyse",
+        "Feuille de route stratégique des réseaux sociaux personnalisée",
+        "Calendrier de contenu et planning de publication",
+        "Suivi des performances et plan d'optimisation"
+      ]
+    },
+    "footer": {
+      "contact": "hello@thekreativehub.com",
+      "companyName": "The Kreative Hub",
+      "companyDescription": "Transformer les marques grâce à des solutions de marketing digital créatives qui génèrent de vrais résultats.",
+      "quickLinks": "Liens Rapides",
+      "servicesTitle": "Nos Services",
+      "servicesList": [
+        "Gestion des Réseaux Sociaux",
+        "Publicité Payante",
+        "Création de Contenu",
+        "Stratégie & Conseil",
+        "Développement Web"
+      ],
+      "stayConnected": "Restez Connecté",
+      "newsletterText": "Abonnez-vous à notre newsletter pour des conseils marketing et des mises à jour.",
+      "newsletterPlaceholder": "Entrez votre email",
+      "newsletterButton": "S'abonner",
+      "location": "Tunis, Tunisie",
+      "phone": "+216 12 345 678",
+      "copyright": "© 2025 The Kreative Hub. Tous droits réservés.",
+      "links": {
+        "privacy": "Politique de Confidentialité",
+        "terms": "Conditions de Service"
+      }
+    }
+  },
+  "ar": {
+    "nav": {
+      "services": "الخدمات",
+      "about": "من نحن",
+      "testimonials": "آراء العملاء",
+      "contact": "اتصل بنا"
+    },
+    "hero": {
+      "headline": "انمو بذكاء. باع أكثر. الطريقة الإبداعية.",
+      "subheadline": "نساعد العلامات التجارية على التميز من خلال وسائل التواصل الاجتماعي والإعلانات والمحتوى والاستراتيجية.",
+      "cta": "احجز مكالمة",
+      "demoButton": "شاهد العرض التوضيحي",
+      "analyticsDashboard": "لوحة التحكم التحليلية",
+      "engagementRate": "معدل التفاعل",
+      "roi": "عائد الاستثمار"
+    },
+    "services": {
+      "title": "خدماتنا",
+      "subtitle": "حلول التسويق الرقمي الشاملة المصممة لنجاحك",
+      "cta": "احجز مكالمة",
+      "items": [
+        {
+          "title": "إدارة وسائل التواصل الاجتماعي",
+          "description": "استراتيجية شاملة لوسائل التواصل الاجتماعي وإنشاء المحتوى وإدارة المجتمع لبناء حضور علامتك التجارية."
+        },
+        {
+          "title": "الإعلانات المدفوعة",
+          "description": "حملات فيسبوك وإنستغرام وجوجل إعلانات عالية التحويل تدفع نتائج قابلة للقياس."
+        },
+        {
+          "title": "إنشاء المحتوى",
+          "description": "التصوير الفوتوغرافي والسينمائي والتصميم الجرافيكي الاحترافي الذي يحكي قصة علامتك التجارية."
+        },
+        {
+          "title": "الاستراتيجية والتدقيق",
+          "description": "تدقيقات التسويق القائمة على البيانات والتخطيط الاستراتيجي لتحسين وجودك الرقمي."
+        },
+        {
+          "title": "إنشاء المواقع الإلكترونية",
+          "description": "مواقع إلكترونية حديثة ومتجاوبة مصممة لتحويل الزوار إلى عملاء."
+        }
+      ]
+    },
+    "servicePacks": {
+      "title": "اختر خطتك",
+      "subtitle": "اختر الحزمة المثالية لنمو عملك",
+      "packs": [
+        {
+          "name": "حزمة البداية",
+          "monthlyPrice": "200 د.ت",
+          "yearlyPrice": "1,920 د.ت",
+          "features": [
+            "إدارة وسائل التواصل الاجتماعي (منصة واحدة)",
+            "2 ريلز/شهر",
+            "تقرير شهري",
+            "تحليلات أساسية",
+            "دعم عبر البريد الإلكتروني"
+          ],
+          "cta": "ابدأ الآن"
+        },
+        {
+          "name": "حزمة النمو",
+          "monthlyPrice": "450 د.ت",
+          "yearlyPrice": "4,320 د.ت",
+          "features": [
+            "إدارة وسائل التواصل الاجتماعي (3 منصات)",
+            "4 ريلز + تحسين الإعلانات",
+            "تدقيق شهري",
+            "تحليلات متقدمة",
+            "دعم أولوية",
+            "تقويم المحتوى"
+          ],
+          "cta": "ابدأ النمو"
+        },
+        {
+          "name": "الحزمة المميزة",
+          "monthlyPrice": "سعر مخصص",
+          "yearlyPrice": "سعر مخصص",
+          "features": [
+            "جميع الخدمات (بما في ذلك إنشاء الويب)",
+            "استراتيجية محتوى مخصصة",
+            "مدير حساب مخصص",
+            "دعم 24/7",
+            "تقارير أسبوعية",
+            "استشارة العلامة التجارية"
+          ],
+          "cta": "اتصل بنا"
+        }
+      ],
+      "customPack": {
+        "title": "ابن حزمتك الخاصة",
+        "description": "أخبرنا بما تحتاج، وسننشئ حلًا مخصصًا لك.",
+        "cta": "اتصل بنا"
+      }
+    },
+    "whyUs": {
+      "title": "لماذا تختار المركز الإبداعي",
+      "items": [
+        {
+          "title": "خبراء إبداعيون",
+          "description": "فريقنا من المصممين والاستراتيجيين يجلب أفكارًا جديدة ومبتكرة لكل مشروع."
+        },
+        {
+          "title": "استراتيجيات قائمة على البيانات",
+          "description": "كل قرار مدعوم بالتحليلات والمنهجيات المثبتة لأقصى عائد استثمار."
+        },
+        {
+          "title": "نتائج متسقة",
+          "description": "نحن نقدم نموًا قابلًا للقياس ونحافظ على شراكات طويلة المدى مع عملائنا."
+        }
+      ],
+      "stats": [
+        {
+          "number": "500+",
+          "label": "مشروع مكتمل"
+        },
+        {
+          "number": "95%",
+          "label": "رضا العملاء"
+        },
+        {
+          "number": "250%",
+          "label": "متوسط عائد الاستثمار"
+        },
+        {
+          "number": "24/7",
+          "label": "الدعم متاح"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "ماذا يقول عملاؤنا",
+      "items": [
+        {
+          "name": "سارة جونسون",
+          "company": "TechFlow Solutions",
+          "content": "المركز الإبداعي حوّل حضورنا على وسائل التواصل الاجتماعي. زاد تفاعلنا بنسبة 300% في 3 أشهر فقط!",
+          "rating": 5
+        },
+        {
+          "name": "أحمد حسن",
+          "company": "Middle East Ventures",
+          "content": "فريق محترف مع نتائج استثنائية. تحسن عائد الاستثمار بشكل كبير بعد العمل معهم.",
+          "rating": 5
+        },
+        {
+          "name": "ماري دوبوا",
+          "company": "Luxury Boutique",
+          "content": "محتوى إبداعي ونهج استراتيجي ساعدنا في الوصول إلى أسواق جديدة. أنصح بشدة!",
+          "rating": 5
+        }
+      ]
+    },
+    "booking": {
+      "title": "جاهز لتنمية عملك؟",
+      "subtitle": "املأ النموذج وسننشئ استراتيجية مخصصة لعلامتك التجارية",
+      "cta": "احجز مكالمة",
+      "transformTitle": "جاهز لتحويل علامتك التجارية؟",
+      "transformDescription": "املأ نموذجنا السريع وسنرد عليك خلال 24 ساعة مع اقتراح استراتيجية مخصصة.",
+      "freeConsultation": "استشارة مجانية • لا التزام مطلوب",
+      "processTitle": "عملية بسيطة من 3 خطوات",
+      "processSteps": [
+        {
+          "title": "املأ النموذج",
+          "description": "أخبرنا عن عملك وأهدافك"
+        },
+        {
+          "title": "مكالمة الاستراتيجية",
+          "description": "نحلل وننشئ خطة مخصصة"
+        },
+        {
+          "title": "احصل على النتائج",
+          "description": "شاهد علامتك التجارية تنمو والمبيعات تزداد"
+        }
+      ],
+      "expectationsTitle": "ماذا ستحصل عليه",
+      "expectations": [
+        "تدقيق شامل للعلامة التجارية والتحليل",
+        "خريطة طريق استراتيجية مخصصة لوسائل التواصل الاجتماعي",
+        "تقويم المحتوى وجدول النشر",
+        "تتبع الأداء وخطة التحسين"
+      ]
+    },
+    "footer": {
+      "contact": "hello@thekreativehub.com",
+      "companyName": "ذا كرياتيف هاب",
+      "companyDescription": "نحوّل العلامات التجارية من خلال حلول التسويق الرقمي الإبداعية التي تحقق نتائج حقيقية.",
+      "quickLinks": "روابط سريعة",
+      "servicesTitle": "خدماتنا",
+      "servicesList": [
+        "إدارة وسائل التواصل الاجتماعي",
+        "الإعلانات المدفوعة",
+        "إنشاء المحتوى",
+        "الاستراتيجية والاستشارات",
+        "تطوير المواقع"
+      ],
+      "stayConnected": "ابق على تواصل",
+      "newsletterText": "اشترك في نشرتنا البريدية للحصول على نصائح تسويقية وتحديثات.",
+      "newsletterPlaceholder": "أدخل بريدك الإلكتروني",
+      "newsletterButton": "اشترك",
+      "location": "تونس، تونس",
+      "phone": "+216 12 345 678",
+      "copyright": "© 2025 ذا كرياتيف هاب. جميع الحقوق محفوظة.",
+      "links": {
+        "privacy": "سياسة الخصوصية",
+        "terms": "شروط الخدمة"
+      }
+    }
+  }
+}
